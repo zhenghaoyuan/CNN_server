@@ -1,0 +1,13 @@
+baby
+bear
+bird
+butterfly
+cat
+dog
+elephant
+horse
+lion
+panda
+pig
+pigeon
+rabbit
