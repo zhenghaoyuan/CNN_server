@@ -68,7 +68,7 @@ def download_pages(keywords,download_dir):
 				im = Image.open(file_path);
 				try:
 					im.verify();
-
+					print(im.format);
 					if im.format != 'JPEG' and im.format != 'PNG':
 						print(im.format);
 						os.remove(file_path);
